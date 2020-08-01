@@ -9,3 +9,14 @@ C:\Users\nomsimbenge2\Desktop\Strife\StrifeCode\obj\Debug\StrifeCode.csproj.Gene
 C:\Users\nomsimbenge2\Desktop\Strife\StrifeCode\obj\Debug\StrifeCode.csproj.CoreCompileInputs.cache
 C:\Users\nomsimbenge2\Desktop\Strife\StrifeCode\obj\Debug\StrifeCode.exe
 C:\Users\nomsimbenge2\Desktop\Strife\StrifeCode\obj\Debug\StrifeCode.pdb
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\bin\Debug\StrifeCode.exe.config
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\bin\Debug\StrifeCode.exe
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\bin\Debug\StrifeCode.pdb
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.csprojAssemblyReference.cache
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.Form1.resources
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.Form2.resources
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.Properties.Resources.resources
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.csproj.GenerateResource.cache
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.csproj.CoreCompileInputs.cache
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.exe
+C:\Users\nomsimbenge2\Desktop\StrifeRepo\StrifeCode\obj\Debug\StrifeCode.pdb

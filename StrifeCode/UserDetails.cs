@@ -60,5 +60,11 @@ namespace StrifeCode
 
         }
 
+        public List<UserDetails> GetUserDetails() 
+        {
+            List<UserDetails> 
+            return
+        }
+
     }
 }
