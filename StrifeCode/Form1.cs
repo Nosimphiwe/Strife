@@ -8,17 +8,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace StrifeCode
 {
+
     public partial class Form1 : Form
     {
-        List<UserDetails> userDetails = new List<UserDetails>();
+
+        public static List<UserDetails> userDetails;
+
         public Form1()
         {
+            userDetails = new List<UserDetails>();
             InitializeComponent();
         }
 
-     
+        public void ShowForm2() {
+            var form2 = new Form2(List);
+            form2.Show();
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -39,7 +47,7 @@ namespace StrifeCode
                     form.Show();
                 }
                 else {
-                    MessageBox.Show("Please reenter sign in details");
+                    MessageBox.Show("Error: Invalid details. Please reenter sign in details");
                     txtName.Clear();
                     txtPassword.Clear();
                 }
